@@ -1001,7 +1001,7 @@ textarea {
   width: 100%; }
 
 aside.left-panel {
-  background: #272c33;
+  background: #318ce7;
   display: table-cell;
   height: 100vh;
   min-height: 100%;
@@ -1012,7 +1012,7 @@ aside.left-panel {
   transition: width 0.3s ease; }
 
 .navbar {
-  background: #272c33;
+  background: #318ce7;
   border-radius: 0;
   border: none;
   display: block;
@@ -1023,7 +1023,7 @@ aside.left-panel {
     text-align: center;
     width: 100%; }
   .navbar .navbar-brand {
-    border-bottom: 1px solid #4e4e52;
+    /* border-bottom: 1px solid #4e4e52; */
     color: #f1f2f7 !important;
     font-family: 'Open Sans';
     font-size: 22px;
@@ -1052,7 +1052,7 @@ aside.left-panel {
     .navbar .navbar-brand.hidden {
       display: none; }
   .navbar .menu-title {
-    border-bottom: 1px solid #4e4e52;
+    border-bottom: 1px solid #ffffff;
     color: #9496a1;
     clear: both;
     display: block;
@@ -1109,7 +1109,7 @@ aside.left-panel {
           line-height: 30px; }
           .navbar .navbar-nav li.menu-item-has-children a:before {
             content: "\f105";
-            color: #c8c9ce;
+            color: #fff;
             font-family: 'Fontawesome';
             font-size: 16px;
             position: absolute;
